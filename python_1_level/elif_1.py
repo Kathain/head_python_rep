@@ -8,8 +8,7 @@ elif a % 5 == 0:
 else:
     print(a)
 
-
-a,b,c = int(input()),int(input()),int(input())
+a, b, c = int(input()), int(input()), int(input())
 if a == b and a == c:
     print(3)
 elif a == b and a != c:
@@ -20,7 +19,6 @@ elif b == c:
     print(2)
 else:
     print(0)
-
 
 a = int(input())
 if a == 1:
@@ -47,8 +45,6 @@ elif a == 11:
     print('Ноябрь')
 elif a == 12:
     print('Декабрь')
-
-
 
 a = int(input())
 if a >= 65:
