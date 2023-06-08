@@ -11,3 +11,5 @@ slice_to_35 = (my_tuple[0,35])
 print(slice_5_10)
 print(slice_from_20)
 print(slice_to_35)
+
+g = {}
