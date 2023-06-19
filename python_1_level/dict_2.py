@@ -140,3 +140,4 @@ d2 = {'France': 'Paris',
 
 capitals = d1 | d2
 print(capitals)
+print(capitals)
