@@ -11,5 +11,7 @@ for elem_dict in first_list:
             slovar['Longitude'] = elem_dict['Longitude']
             slovar['Latitude'] = elem_dict['Latitude']
             tut_list.append(slovar)
-print(tut_list)
+#print(tut_list)
+
+
 
